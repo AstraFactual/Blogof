@@ -1,3 +1,7 @@
+* {
+  letter-spacing: 3px;
+}
+
 .up{
   display: block;
 
@@ -36,6 +40,7 @@ body{
   color: #4b5d67;
   background-color: #deff8b;
   padding: 20px;
+  letter-spacing: 3px;
 
 }
 
@@ -95,4 +100,23 @@ h2 {
   display: block;
   margin-top: 100px;
   padding: 50px;
+}
+
+
+.quiz-list{
+  text-align: left;
+  padding-top: 20px;
+}
+
+h4{
+  text-align: center;
+}
+.imag{
+  opacity: 70%;
+  margin-top: : 20px;
+    margin-bottom: 20px;
+  padding: 20px;
+}
+button{
+  margin: 20px; 
 }

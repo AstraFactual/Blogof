@@ -110,6 +110,7 @@ h2 {
 
 h4{
   text-align: center;
+  
 }
 .imag{
   opacity: 70%;
@@ -118,5 +119,13 @@ h4{
   padding: 20px;
 }
 button{
-  margin: 20px; 
+  margin: 20px;
+}
+imgblock{
+  display: inline;
+}
+
+.childart{
+  text-align:
+
 }

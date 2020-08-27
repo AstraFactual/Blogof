@@ -76,7 +76,8 @@ h2 {
 }
 
 .test-image{
-  width: 10%;
+  width: 10em;
+  height: 10em;
   border-radius: 100%;
   margin: 20px;
 }

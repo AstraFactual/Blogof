@@ -1,523 +1,144 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<link rel="icon" href="favicon.ico">
-<link rel="stylesheet" href="style.css">
-    <title>Kendriya vidyalaya GUNTUR</title>
-  </head>
-  <body>
-
-
-
-<section class="up">
-
-
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" class="Nav">
-
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-        <a class="navbar-brand" > <img src="asd.png" alt="error to load image" style="width: 100px;  height: 70px;"> </a>
-        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-          <li class="nav-item active">
-            <a class="nav-link" href="https://kvsangathan.nic.in/">KV HQ <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://rohyderabad.kvs.gov.in/">KV RO Hyderabad</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://guntur.kvs.ac.in/">KV Guntur</a>
-          </li>
-
-
-
-                    <li class="nav-item">
-                      <a class="nav-link" href="https://kvsangathan.nic.in/hq-gyan-kosh#">Gyan Kosh</a>
-                    </li>
-
-          <li class="nav-item">
-          <a class="nav-link" href="https://drive.google.com/file/d/133aKpy7sJK9D1q92HCVxoF0a7E6nqCCM/view">ACCOUNTS CODE</a>
-        </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="https://drive.google.com/file/d/1RJVM6DtY4fmWjwwDEZ6vCwCvb29QVnMq/view">EDUCATION CODE</a>
-                </li>
-
-                <!-- Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-            E-NewsPaper
-            </a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="https://epaper.bhaskar.com/">Dainik Bhaskar</a>
-              <a class="dropdown-item" href="https://epaper.amarujala.com/delhi-city/20200728/01.html?format=img&ed_code=delhi-city">Amar Ujala</a>
-            <a class="dropdown-item" href="https://epaper.jagran.com/epaper/">Dainik Jagran</a>
-            <a class="dropdown-item" href="https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html?a=c#">Times Of India</a>
-          </div>
-        </li>
-
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-          E-Magzine
-          </a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="http://uphindisansthan.in/Balwani/Bal%20Wani%20List.htm">बाल वाणी</a>
-            <a class="dropdown-item" href="https://www.livehindustan.com/nandan">नंदन</a>
-            <a class="dropdown-item" href="http://kids.nirankari.org/hansti-duniya/">हँसती दुनिया</a>
-            <a class="dropdown-item" href="http://devputra.com/">देव पुत्र</a>
-            <a class="dropdown-item" href="http://anuragtrust.in/2014/12/magazines-old-issues/">अनुरागर</a>
-          </div>
-        </li>
-
-        <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                  Career Corner
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="http://www.employment-newspaper.com/">Employment Newspaper</a>
-                    <a class="dropdown-item" href="http://employmentnews.gov.in/NewEmp/Home.aspx">Employment News</a>
-                    <a class="dropdown-item" href="http://https//careercell.wordpress.com/">Career Cell</a>
-                    <a class="dropdown-item" href="https://economictimes.indiatimes.com/?from=mdr">Economics Times</a>
-                  </div>
-                </li>
-
-                <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-        COMPETITIVE EXAM CORNER
-          </a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="http://affairscloud.com">AFFAIRS CLOUD</a>
-            <a class="dropdown-item" href="http://studycornergk.com">STUDY CORNER</a>
-            <a class="dropdown-item" <a href="http://gradeup.co">GRADE UP</a>
-            <a class="dropdown-item" href="http://wifistudy.com">WIFI STUDY</a>
-              <a class="dropdown-item" href="http://quiz.jagranjosh.com">QUIZ JAGRANJOSH</a>
-                <a class="dropdown-item" href="http://gktoday.in">GK TODAY</a>
-          </div>
-        </li>
-
-
-
-                        <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-              OPEN EDUCATIONAL RESOUCES
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="http://cbse.nic.in/">CBSE</a>
-                    <a class="dropdown-item" href="https://mycbseguide.com/">MY CBSE</a>
-                    <a class="dropdown-item" <a href="https://ncert.nic.in/">NCERT</a>
-                    <a class="dropdown-item" href="https://www.khanacademy.org/">KHAN ACADEMY</a>
-                      <a class="dropdown-item" href="http://www.olabs.edu.in/">ONLINE LABS</a>
-                        <a class="dropdown-item" href="http://www.ebasta.in/">E BASTA</a>
-                          <a class="dropdown-item" href="https://vigyanprasar.gov.in/">VIGYAN PARSAR</a>
-                  </div>
-                </li>
-
-
-
-                                        <li class="nav-item dropdown">
-                                  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                              DIGITAL INDIA
-                                  </a>
-                                  <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="https://www.digitalindia.gov.in/">Digital India</a>
-                                    <a class="dropdown-item" href="https://web.umang.gov.in/landing/">UMANG</a>
-                                    <a class="dropdown-item" <a href="http://khoyapaya.gov.in/mpp/home">Khoya Paya</a>
-                                    <a class="dropdown-item" href="https://indianvisaonline.gov.in/evisa/tvoa.html">E Visa</a>
-                                      <a class="dropdown-item" href="http://mkisan.gov.in/downloadmobileapps.aspx">MKisan</a>
-                                        <a class="dropdown-item" href="https://wcd.nic.in/">Beti Bachao Beti Padhao</a>
-                                          <a class="dropdown-item" href="http://epanchayat.in/">E-Panchayat</a>
-                                          <a class="dropdown-item" href="https://www.mygov.in/">My Gov</a>
-                                  </div>
-                                </li>
-                            </ul>
-
-      </div>
-
-
-      </section>
-
-
-
-<!-- Nav End -->
-<section class="seco">
-
-<marquee behavior="alternate" class="rot" ><a href="
-https://www.youtube.com/watch?v=5nmV6iLzT0c&amp;feature=youtu.be" target="_self">
-<img src="https://cbpssubscriber.mygov.in/assets/uploads/X0qP81f7lg3YqNFI?59" width="700" height="100"></a></marquee>
-
-
-</section>
-
-
-
-<!-- another section end -->
-
-
-
-
-
-
-<section id="testimonials" class="test">
-
-
-<div class="uper">
-
-
-  <div class="card-deck">
-    <div class="card"><center>
-
-
-      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
-        <img src="https://rohyderabad.kvs.gov.in/sites/default/files/styles/dc/public/DC_Sir_0.jpg?itok=u1KOjVFA" alt="Error" class="test-image    card-img-top" class="gree"    style=" width: 10em;
-  height: 10em;">    </center>
-      <div class="card-body gree">
-        <h5 class="card-title">Sri K Saseendran</h5>
-        <!-- <p class="card-text">“Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.” “Education is the kindling of a flame, not the filling of a vessel.”</p> -->
-      <p class="card-text">Deputy Commissioner, KVS RO Hyderabad</p>
-    </div>
-
-    </div>
-    <div class="card">
-    <center>
-
-  <img class="test-image card-img-top" src="Lakshmi.jpg" alt="Card image cap" class="gree"  style=" width: 10em;
-height: 10em;">  </center>
-      <div class="card-body gree">
-          <h5 class="card-title">Smt. JSV Lakshmi</h5>
-
-<p class="card-text">Assistant commissioner, Kvs Ro Hybd.</p>
-      </div>
-
-    </div>
-    <div class="card">
-      <center>
-
-    <img class="test-image card-img-top" src="Gowri.jpg" alt="Card image cap" class="gree"  style=" width: 10em;
-height: 10em;">  </center>
-      <div class="card-body gree">
-      <h5 class="card-title">Dr.(Smt.) V. Gowri</h5>
-        <p class="card-text">Assistant commissioner, Kvs Ro Hybd.</p>
-        <!-- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p> -->
-      </div>
-
-    </div>
-  </div></div>
-<!--  uper khatam -->
-
-
-
-
-    <div id="demo" class="carousel slide" data-ride="false">
-
-      <!-- Indicators -->
-      <!-- <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-  </ul> -->
-
-      <!-- The slideshow -->
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <h2>“Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.” “Education is the kindling of a flame, not the filling of a vessel.”</h2>
-          <img src="princi.jpg" alt="Error" class="test-image"  style=" width: 10em;
-    height: 10em;">
-          <em>( Shri Honey Mehta) Principal</em>
-
-        </div>
-        <div class="carousel-item">
-          <h2 class="testimonial-text">GIFT YOUR OLD TEXT-BOOK TO OTHER STUDENTS AND SAVE TREES</h2>
-          <img class="test-image" src="002.jpg" alt="Error" style="width: 10%;
-      border-radius: 100%;
-      margin: 20px;
-      width: 10em;
-height: 10em;"  >
-          <em>Neerja , Librarian</em>
-
-        </div>
-
-
-      </div>
-
-      <!-- Left and right controls -->
-      <a class="carousel-control-prev" href="#demo" data-slide="prev">
-        <span class="carousel-control-prev-icon"></span>
-      </a>
-      <a class="carousel-control-next" href="#demo" data-slide="next">
-        <span class="carousel-control-next-icon"></span>
-      </a>
-
-    </div>
-
-    <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <div class="kargil">
-
-      <marquee behavior="alternate" direction="right" id="marquee1">
-      <p><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-AvAgr8o7QjQ/XxwHprCQfOI/AAAAAAAAAYg/KMFee77ph2AbaSV2oHJWxHGXbZpqJXN2wCLcBGAsYHQ/h120/01.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-aZLBSclvme4/XxwHp8PuO8I/AAAAAAAAAYo/KOgsC04OjWgYzohc6K0DENs1PITFEr9YgCLcBGAsYHQ/h120/1.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-dpT8Veu1Y9g/XxwHr0CFCrI/AAAAAAAAAYw/o_QTTiqPZS8ZbWs_kyyfGbihZfi3aaPHQCLcBGAsYHQ/h120/2.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-jGf7Jgmyjbw/XxwHrE1DK6I/AAAAAAAAAZI/mP2JUiTV5Ak0O9s1bHvnovJYteYonKJvQCEwYBhgLKtMDAL1Ocqy3rILqYTNtc-OVqtV-245ysuHc8BtAcaLQXqTzu8n1crTozm-KIZTmkHk7xerFdAmwf7WO4UHmYuAMD3BudstJYTlr6sDOR753tBPE7XBH7Za66Crekt7hJYhJzpJcIK_1ouF3Z_56KLlQBKvsoZkI1BXAZUzCysxK_toQ3vT6H0l1r0upgBqueUWw3I_czsaVsHF4EfQumJoMu5PzeZTGU3KcaKfhJ5CsUJ3AEJaTJosvLhNEOUnt9Xe2zUUdxs-PPQW6LM6kJ3H51_Gymq33NciNkqVolgn6Z9Otqd8cusQ9tpFY7X0Y2n0GHfTFlHwfmZtV-7KhfK0RdJMzU1otLOJimcz8p_6CdM02VuortWVrt-kt_9Fkc2uKGSIXFRcbP-oL7li7weVadRBbTtT0QKx54bpgIwgq-dKguS-DPd3ZiWX-WWVwbUbsm-0GpUY-wMakBMTIDs84vsPXSft7HRUjRXjJTEkxgk3ZzhIwP2ROClcU8Mk2RXSTY039yo4uMYBQlAFgennJFVcBdnwRiSzIoCeoZpqTbUMkA3qIYSahv0pdaG4efgkz1VBn_41g38FIZ8bUhm5_2ER829V0YKcEyGG7QRRib2heXYcw0J_w-AU/w87-h140-p/14.jpeg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-lStujZ_EMdk/XxwHsRADl-I/AAAAAAAAAZQ/d5z2uA4b0_YEgnsaza98hSgDByX0jzWHACEwYBhgLKtMDAL1Ocqy3rILqYTNtc-OVqtV-245ysuHc8BtAcaLQXqTzu8n1crTozm-KIZTmkHk7xerFdAmwf7WO4UHmYuAMD3BudstJYTlr6sDOR753tBPE7XBH7Za66Crekt7hJYhJzpJcIK_1ouF3Z_56KLlQBKvsoZkI1BXAZUzCysxK_toQ3vT6H0l1r0upgBqueUWw3I_czsaVsHF4EfQumJoMu5PzeZTGU3KcaKfhJ5CsUJ3AEJaTJosvLhNEOUnt9Xe2zUUdxs-PPQW6LM6kJ3H51_Gymq33NciNkqVolgn6Z9Otqd8cusQ9tpFY7X0Y2n0GHfTFlHwfmZtV-7KhfK0RdJMzU1otLOJimcz8p_6CdM02VuortWVrt-kt_9Fkc2uKGSIXFRcbP-oL7li7weVadRBbTtT0QKx54bpgIwgq-dKguS-DPd3ZiWX-WWVwbUbsm-0GpUY-wMakBMTIDs84vsPXSft7HRUjRXjJTEkxgk3ZzhIwP2ROClcU8Mk2RXSTY039yo4uMYBQlAFgennJFVcBdnwRiSzIoCeoZpqTbUMkA3qIYSahv0pdaG4efgkz1VBn_41g38FIZ8bUhm5_2ER829V0YKcEyGG7QRRib2heXYcw0J_w-AU/w106-h140-p/5.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-o0bi1If1glQ/XxwHr0efmbI/AAAAAAAAAZU/5MJVMmxfQoodqOhQaPEbydghOKMm9PnlACEwYBhgLKtMDAL1Ocqy3rILqYTNtc-OVqtV-245ysuHc8BtAcaLQXqTzu8n1crTozm-KIZTmkHk7xerFdAmwf7WO4UHmYuAMD3BudstJYTlr6sDOR753tBPE7XBH7Za66Crekt7hJYhJzpJcIK_1ouF3Z_56KLlQBKvsoZkI1BXAZUzCysxK_toQ3vT6H0l1r0upgBqueUWw3I_czsaVsHF4EfQumJoMu5PzeZTGU3KcaKfhJ5CsUJ3AEJaTJosvLhNEOUnt9Xe2zUUdxs-PPQW6LM6kJ3H51_Gymq33NciNkqVolgn6Z9Otqd8cusQ9tpFY7X0Y2n0GHfTFlHwfmZtV-7KhfK0RdJMzU1otLOJimcz8p_6CdM02VuortWVrt-kt_9Fkc2uKGSIXFRcbP-oL7li7weVadRBbTtT0QKx54bpgIwgq-dKguS-DPd3ZiWX-WWVwbUbsm-0GpUY-wMakBMTIDs84vsPXSft7HRUjRXjJTEkxgk3ZzhIwP2ROClcU8Mk2RXSTY039yo4uMYBQlAFgennJFVcBdnwRiSzIoCeoZpqTbUMkA3qIYSahv0pdaG4efgkz1VBn_41g38FIZ8bUhm5_2ER829V0YKcEyGG7QRRib2heXYcw0J_w-AU/w90-h140-p/12.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-6KX3ETYAVC8/XxwP4k9uIsI/AAAAAAAAAZo/eynLX-WFduAKGVuno5xknngAqRT8fonGQCLcBGAsYHQ/h120/17.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-LmFnrrkzYTY/XxwP4mRaWpI/AAAAAAAAAZg/JeMJS6pHnuk2wbdDe6t_7w9_vYXnkIGvwCLcBGAsYHQ/h120/16.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-WCGtQugrCSc/XxwVPPJ97KI/AAAAAAAAAaU/eEA8kUwf40cf6ZZJyjYTJ71WVGK0nbuugCLcBGAsYHQ/h120/21.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-wld6yZc1gb4/XxwP4vnHwpI/AAAAAAAAAZk/vdm1GGfBUb4fXEOfkTTIxdEs7nw4-mgEgCLcBGAsYHQ/h120/15.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-fb9c9aCrfSM/XxwRvSufYYI/AAAAAAAAAZ4/p9VK3-0hJCEVoiN16YH7VWzdosV6zVeDQCLcBGAsYHQ/h120/18.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-1RFNSvEdjRI/XxwRvXXUSfI/AAAAAAAAAZ8/8Gm0KG1HeOgg9cpcDRctFOmFQNTRVWM0QCLcBGAsYHQ/h120/19.jpeg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-ZBhsbC4_pms/XxwSUKwZuSI/AAAAAAAAAaI/kBDJqk9f2fMLchQu07Mby39hqG2ZcDFcgCLcBGAsYHQ/h120/20.jpeg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-pbgAB7-IpHI/XxwHswYlEFI/AAAAAAAAAZA/_gZ_kk3k5Uoa5379UAWYQzB1uRmbfhteQCLcBGAsYHQ/h120/8.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-1qHTzETIa54/XxwHsFOXFlI/AAAAAAAAAY4/1omutsMXNl0BwCW9KbQvXVVJYKnLUpCmgCLcBGAsYHQ/h120/3.jpg" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="2" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-qgZytnNOOPg/XxwHpiFg_1I/AAAAAAAAAYk/pFTITSvAaokNVbqM0lRbTmrGJJThO_zowCLcBGAsYHQ/h120/11.jpg" width="100"></p></marquee>
-
-
-<marquee behavior="alternate" direction="right" id="marquee1" onmouseover="this.stop();" onmouseout="this.start();" scrolldelay="85" scrollamount="4"><p><a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html"><img border="3" alt="Natural" height="150" src="https://altaonline.typepad.com/.a/6a0192ac343706970d025d9b3673bb200c-pi" width="150">&nbsp;&nbsp;</a><a href="https://drive.google.com/file/d/1CfkWo0QvT9ZaQ5rWJnOrA0y3DCV0V6cX/view?usp=sharing"><img border="3" alt="Natural" height="150" src="https://lh3.googleusercontent.com/-nh3072Hgtns/XxMVpQi9-YI/AAAAAAAAARs/oCDkxpIsW3QhkAHcNnIuCSph1DA7IkwggCLcBGAsYHQ/h120/GUIDELINE%2B2.png" width="150"></a>&nbsp;&nbsp;<a href="https://drive.google.com/file/d/18bVzT7APGBsojtzAYiJBN5X3sQWp6NLG/view?usp=sharing"><img border="3" alt="Natural" height="150" src="https://lh3.googleusercontent.com/-jJdb7sj_ZIY/XxMU1578srI/AAAAAAAAARo/TQ9DPpS1e9EXh4xp0W9K5Kr3nieo6tywwCEwYBhgLKtMDAL1OcqyMssLSffls3mNgB9oMnG1uctSTG6j_YZe1Ukdoz2DXzDFeQFKKfUZ-yp0PfeooA3cFaV5qNrb6s5tUqPpy1-OTheSYjRyrd0v_5id5QAEWyU_nsREFiqfisdL2FTYSspxzEq5KNVhI-f-egWivqF5PZStpM0jzeDghQnZ51Q9881QdBN3fCwWzvJywC80xXdOz4KOaZe9jcAELKP0fp6coYok_15iLMFD8fcgqvYViZpud5jce3Pl-VtEHIhZeP_g2EKyT3A71RkmuvfUJTRcEtjxUNTkEya-r5KpriAR17wNqAEZvD1Zlz6qTDOh7fIKn70YIFe_LIQZvWyPd_tVA4xKY8IsF1bH8BgfdgY5ouU9WyKSwVpk177oIEwNvUTmdf8bXS4R1sYpo8l8slpmHILksgUaqxPYsTNDJiQlUVOBRFv2dAYLUlFajwFby9s9UgLP4mJc41Nf05UMZq7Z9wxL6hOS3wwhOC7khgfbm6-2OLvrQM2PZDvKvfB8uC_FxsUnT9FTpc8BeDIBUyKXqtPeNR6WBoi4RgjUrxSxDgqFXTpZ5qHrrPG5gPkyewuCmbJB8h97HBFkeEweW9K_lU7iDh0iGoVHkCkWGztcw_rHM-AU/w123-h140-p/gUIDELINE%2BFOR%2BDIGITAL%2BEDU.png" width="150"></a></p></marquee>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iframe src="Virtual_Library2.pdf" width="900em" height="600px"></iframe>
-
-</div>
-
-
-
-
-
-
-
-
-
-<div class="apj-div">
-  <h2>  KENDRIYA VIDAYALA SHIFT-1,GUNTUR.</h2>
-<h4>ONLINE CELEBRATION OF NATIONAL SPORTS DAY 2020-21</h4>
-
-Your kind attention is invited towards the celebration of National Sports Day on 29th August on account of “Birthday of Hockey wizard Major Dhyanchand”, the legend player of Indian hockey.
-This year due to Pandemic of COVID-19, KVS has planned to organize ONLINE NATIONAL SPORTS DAY CELEBRATION 2020 in a befitting manner in all Kendriya Vidyalayas so the students can represent their spirit and passion towards sports through the DRAWING/ PAINTING/ POSTER MAKING competition.
-<div class="quiz-list">
-
-<h5>Topics: -</h5><ul>
-
-<li>	Major Dhyan Chand the legend of India Hockey</li>
-<li>KVS Sports</li>
-<li>	Khel Ratna Award</li>
-<li>	Indigenous Sports</li>
-<li>	India and Sports</li>
-<li>	the Sport which you like the most</li>
-<li>	your dream Sports personality etc.</li>
-</ul>
-<a class="btn btn-outline-success btn-lg btn-block" href="national.pdf">Click Here For - PDF</a>
-
-</div>
-</div>
-
-
-
-<div class="childart ncert">
-  📢#NCERT textbooks are NOW available in audio form!
-  This facility will be very useful for DIVYANG/Children With Special Needs (#CwSN) & is more relevant given the unprecedented #covidcrisis. #DigitalEducation
-  Access the audiobooks here: <a href=">https://t.co/MDRHqQ89eb">https://t.co/MDRHqQ89eb</a>
-  @ncert @ciet_ncert <a href="https://t.co/UnuXDpKDY7">https://t.co/UnuXDpKDY7</a>
-</div>
-
-
-
-  <div class="apj-div">
-    <pre>
-
-      Organised by Library Kendriya Vidyalaya Guntur on the occasion of Independence day.
-
-      E-certificates will be given who will qualify the passing(50%) crieteria for e-quiz.
-
-      Limited certificates provide on the bases of first come first serve.
-
-      Link is available for 11.59 pm on 15aug,2020
-      </pre>
-        <a type="button" class="btn btn-outline-success">Click Here To Participate</a>
-    </div>
-
-
-
-
-
-
-<div class="childart">
-
-      <h2>INDEPENDENCE DAY QUIZ COMPETITION</h2>
-      <p>
-
-
-  All the class teachers of 6th to 8th are requested to share the above link for online quiz    organised by Library Kendriya Vidyalaya Guntur on the occasion of Independence day.
-  E-certificates will be given who will qualify the passing crieteria for e-quiz.
-  Limited certificates provide on the bases of first come first serve.
-  Link is available for 11.59 pm on 15aug,2020
-      </p>
-      <a type="button" class="btn btn-outline-success">Click Here To Participate</a>
-    </div>
-
-</div>
-
-
-
-
-
-
-
-
-
-      <div class="apj-div">
-<h2>NATIONAL LIBRARIAN DAY 12 AUGUST 2020</h2>
-<p>
-
-
-12 अगस्त 2020 के दिन को भारत में राष्ट्रीय पुस्तकालय अध्यक्ष दिवस के रूप में मनाया जाता है|</p>
-<img src="https://1.bp.blogspot.com/-zfnpGjRlwpk/XzNSxrUFQHI/AAAAAAAAA4Q/FJcUm2gHLhgP0J_oOi0aITuJwu8DvgBuQCLcBGAsYHQ/w640-h603/IMG_20200812_071349.jpg" height="500px" width="500px" class="imgblock">
-      </div>
-
-
-
-
-
-      <div class="widget-content">
-      <marquee behavior="alternate" direction="right" id="marquee1" onmouseover="this.stop();" onmouseout="this.start();" scrolldelay="85" scrollamount="4"><p><a href="https://www.mygov.in/"><img border="3" alt="Natural" height="200" src="https://static.businessworld.in/article/article_extra_large_image/3921460447240MyGov-logo1.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://data.gov.in/"><img border="3" alt="Natural" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7MOVYcEvU-y2NT68stGnMjMJQ-X4nGBl7vATFEmNPQG7RY0n&amp;s" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ncert.nic.in/"><img border="3" alt="Natural" height="200" src="https://yt3.ggpht.com/a/AGF-l79Zp-Bba4qlHnxIW0E3BlIEUtP4Wt1pnu6VFw=s900-c-k-c0xffffffff-no-rj-mo" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://navodaya.gov.in/nvs/en/Home1"><img border="3" alt="Natural" height="200" src="https://timesofindia.indiatimes.com/thumb/msid-70955829,imgsize-128157,width-400,resizemode-4/70955829.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kvsangathan.nic.in/"><img border="3" alt="Natural" height="200" src="https://www.kopykitab.com/blog/wp-content/uploads/2018/04/KV.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://iitf.gov.in/"><img border="3" alt="Natural" height="200" src="https://iitf.gov.in/pluginfile.php/1/theme_campus/frontpageresponsivebackgroundimage/1579670795/LMS-Header1.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pmindia.gov.in/en/"><img border="3" alt="Natural" height="200" src="https://www.pmindia.gov.in/wp-content/uploads/2014/09/government-web-directory.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://epathshala.nic.in/"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/W6vdp7WkrEyUOLzgFiiCyTW8n3bqiQebLoTUw2LJTU25HZkjnUVilHILzMtOzJ4-cg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://epgp.inflibnet.ac.in/"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-CZR4tOFDkxk/XihuatHuHwI/AAAAAAAAA6k/znpohPWhs4YXq7kc7MpAqRZOsg1v5mLcQCEwYBhgL/w140-h51-p/epgpathsalalogo.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ncert.nic.in/tamanna/tamanna.html"><img border="3" alt="Natural" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtlawDUe79-_z678_Znb8eAsU2n4awzMosV64tiV6A2TezTh8w" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://diksha.gov.in/help/getting-started/diksha-mobile-app/"><img border="3" alt="Natural" height="200" src="https://spiderimg.itstrendingnow.com/assets/images/2019/08/27/750x506/diksha_1566884209.jpeg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bsgindia.org/User/Home.aspx"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/proxy/TpxC5CI_CBdrPNU3v6HPZ8uIGh8-bBK6ApKnGjsNLbfFj5TvVTX_KITv5Rc3uYxWxGDcc-nwUOBT7sY5yBRIKHocmx4wpPaY3g" width="200"></a></p></marquee>
-      </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <img src = "qui.jpg" height="40%" width="100%" class="imag">
-
-
-
- <h1>ONLINE ESSAY COMPETITION ON THE THEME 'AATMANIRBHAR BHARAT-SWATANTRA BHARAT'</h1>
-<hr />
-<h3>INTRODUCTION</h3>
-Ministry of Human Resource Development (MHRD), Government of India is glad to announce an essay competition for school students at the secondary and senior secondary stages (classes IX, X, XI and XII) on the theme 'Aatmanirbhar Bharat - Swatantra Bharat', which envisions the emergence of a robust and strong nation committed to the welfare of all. It is a clarion call by the Honorable Prime Minister of India Shri Narendra Modi for a strong, vibrant and self-reliant India for all and an India of all.
-<div class = "quiz-list">
-
-<h4>Aatmanirbhar and Swatantra Bharat campaign focuses on:</h4>
-<ul>
-  <li>ensuring health and wellbeing for all;</li>
-    <li>achieving sustainable development with concerns of environment rooted in all initiatives;</li>
-      <li>optimizing resource mobilization and develop quality indicators to map interventions,</li>
-        <li>strengthening the efforts to bridge all forms of inequalities including social and economic divide for enabling each and every individual to enjoy the fruits of progress. </li>
-          <li>evolving multifarious approaches to address natural and human calamities with our own strength and reservoir of resources.</li>
-            <li>develop scientific and technical knowledge for innovating strategies to overcome barriers to development.</li>
-</ul>
-
-</div>
-<button type="button" class="btn btn-outline-success Centre">Click here to participate</button>
-
-
-
-
-
-
-
-<div class="apj-div">
-
-
-
-<h2>
-  महान उपन्यासकार श्री मुंशी प्रेमचंद जी का जन्म दिवस 31जुलाई
-
-
-  आज महान उपन्यासकार मुंशी प्रेमचंद जी का जन्मदिवस है। आइए आज उन्हें नमन करे तथा उनके कृतियों को याद करते हुए उन्हें सच्ची श्रद्धांजलि अर्पित करे।
-
-</h2>
-
-<img src="data:image/jpeg;base64,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" alt="error to load image" class="aapj">
-
-धनपत राय श्रीवास्तव (31 जुलाई 1880 – 8 अक्टूबर 1936) जो प्रेमचंद नाम से जाने जाते हैं, वे हिन्दी और उर्दू के सर्वाधिक लोकप्रिय उपन्यासकार, कहानीकार एवं विचारक थे। उन्होंने सेवासदन, प्रेमाश्रम, रंगभूमि, निर्मला, गबन, कर्मभूमि, गोदान आदि लगभग डेढ़ दर्जन उपन्यास तथा कफन, पूस की रात, पंच परमेश्वर, बड़े घर की बेटी, बूढ़ी काकी, दो बैलों की कथा आदि तीन सौ से अधिक कहानियाँ लिखीं। उनमें से अधिकांश हिंदी तथा उर्दू दोनों भाषाओं में प्रकाशित हुईं। उन्होंने अपने दौर की सभी प्रमुख उर्दू और हिंदी पत्रिकाओं जमाना, सरस्वती, माधुरी, मर्यादा, चाँद, सुधा आदि में लिखा। उन्होंने हिंदी समाचार पत्र जागरण तथा साहित्यिक पत्रिका हंस का संपादन और प्रकाशन भी किया। इसके लिए उन्होंने सरस्वती प्रेस खरीदा जो बाद में घाटे में रहा और बंद करना पड़ा। प्रेमचंद फिल्मों की पटकथा लिखने मुंबई आए और लगभग तीन वर्ष तक रहे। जीवन के अंतिम दिनों तक वे साहित्य सृजन में लगे रहे। महाजनी सभ्यता उनका अंतिम निबंध, साहित्य का उद्देश्य अंतिम व्याख्यान, कफन अंतिम कहानी, गोदान अंतिम पूर्ण उपन्यास तथा मंगलसूत्र अंतिम अपूर्ण उपन्यास माना जाता है।
-
-१९०६ से १९३६ के बीच लिखा गया प्रेमचंद का साहित्य इन तीस वर्षों का सामाजिक सांस्कृतिक दस्तावेज है। इसमें उस दौर के समाजसुधार आंदोलनों, स्वाधीनता संग्राम तथा प्रगतिवादी आंदोलनों के सामाजिक प्रभावों का स्पष्ट चित्रण है। उनमें दहेज, अनमेल विवाह, पराधीनता, लगान, छूआछूत, जाति भेद, विधवा विवाह, आधुनिकता, स्त्री-पुरुष समानता, आदि उस दौर की सभी प्रमुख समस्याओं का चित्रण मिलता है। आदर्शोन्मुख यथार्थवाद उनके साहित्य की मुख्य विशेषता है। हिंदी कहानी तथा उपन्यास के क्षेत्र में १९१८ से १९३६ तक के कालखंड को 'प्रेमचंद युग' कहा जाता है।
-
-<h2>जीवन परिचय</h2>
-
-प्रेमचंद का जन्म ३१ जुलाई १८८० को वाराणसी जिले (उत्तर प्रदेश) के लमही गाँव में एक कायस्थ परिवार में हुआ था। उनकी माता का नाम आनन्दी देवी तथा पिता का नाम मुंशी अजायबराय था जो लमही में डाकमुंशी थे। उनका वास्तविक नाम धनपत राय श्रीवास्तव था। प्रेमचंद की आरंभिक शिक्षा फ़ारसी में हुई। प्रेमचंद के माता-पिता के संबंध में रामविलास शर्मा लिखते हैं कि- "जब वे सात साल के थे, तभी उनकी माता का स्वर्गवास हो गया। जब पंद्रह साल के हुए तब उनकी शादी कर दी गई और सोलह साल के होने पर उनके पिता का भी देहांत हो गया।"]
-
-इसके कारण उनका प्रारंभिक जीवन संघर्षमय रहा। प्रेमचंद के जीवन का साहित्य से क्या संबंध है इस बात की पुष्टि रामविलास शर्मा के इस कथन से होती है कि- "सौतेली माँ का व्यवहार, बचपन में शादी, पंडे-पुरोहित का कर्मकांड, किसानों और क्लर्कों का दुखी जीवन-यह सब प्रेमचंद ने सोलह साल की उम्र में ही देख लिया था। इसीलिए उनके ये अनुभव एक जबर्दस्त सचाई लिए हुए उनके कथा-साहित्य में झलक उठे थे।" उनकी बचपन से ही पढ़ने में बहुत रुचि थी। १३ साल की उम्र में ही उन्‍होंने तिलिस्म-ए-होशरुबा पढ़ लिया और उन्होंने उर्दू के मशहूर रचनाकार रतननाथ 'शरसार', मिर्ज़ा हादी रुस्वा और मौलाना शरर के उपन्‍यासों से परिचय प्राप्‍त कर लिया। उनका पहला विवाह पंद्रह साल की उम्र में हुआ। १९०६ में उनका दूसरा विवाह शिवरानी देवी से हुआ जो बाल-विधवा थीं। वे सुशिक्षित महिला थीं जिन्होंने कुछ कहानियाँ और प्रेमचंद घर में शीर्षक पुस्तक भी लिखी। उनकी तीन संताने हुईं-श्रीपत राय, अमृत राय और कमला देवी श्रीवास्तव। १८९८ में मैट्रिक की परीक्षा उत्तीर्ण करने के बाद वे एक स्थानीय विद्यालय में शिक्षक नियुक्त हो गए। नौकरी के साथ ही उन्होंने पढ़ाई जारी रखी। उनकी शिक्षा के संदर्भ में रामविलास शर्मा लिखते हैं कि- "1910 में अंग्रेज़ी, दर्शन, फ़ारसी और इतिहास लेकर इंटर किया और 1919 में अंग्रेज़ी, फ़ारसी और इतिहास लेकर बी. ए. किया।" १९१९ में बी.ए. पास करने के बाद वे शिक्षा विभाग के इंस्पेक्टर पद पर नियुक्त हुए।
-
-१९२१ ई. में असहयोग आंदोलन के दौरान महात्मा गाँधी के सरकारी नौकरी छोड़ने के आह्वान पर स्कूल इंस्पेक्टर पद से २३ जून को त्यागपत्र दे दिया। इसके बाद उन्होंने लेखन को अपना व्यवसाय बना लिया। मर्यादा, माधुरी आदि पत्रिकाओं में वे संपादक पद पर कार्यरत रहे। इसी दौरान उन्होंने प्रवासीलाल के साथ मिलकर सरस्वती प्रेस भी खरीदा तथा हंस और जागरण निकाला। प्रेस उनके लिए व्यावसायिक रूप से लाभप्रद सिद्ध नहीं हुआ। १९३३ ई. में अपने ऋण को पटाने के लिए उन्होंने मोहनलाल भवनानी के सिनेटोन कंपनी में कहानी लेखक के रूप में काम करने का प्रस्ताव स्वीकार कर लिया। फिल्म नगरी प्रेमचंद को रास नहीं आई। वे एक वर्ष का अनुबंध भी पूरा नहीं कर सके और दो महीने का वेतन छोड़कर बनारस लौट आए। उनका स्वास्थ्य निरंतर बिगड़ता गया। लम्बी बीमारी के बाद ८ अक्टूबर १९३६ को उनका निधन हो गया।
-
-<h2>कहानी</h2>
-
-इनकी अधिकतर कहानियोँ में निम्न व मध्यम वर्ग का चित्रण है। डॉ॰ कमलकिशोर गोयनका ने प्रेमचंद की संपूर्ण हिंदी-उर्दू कहानी को प्रेमचंद कहानी रचनावली नाम से प्रकाशित कराया है। उनके अनुसार प्रेमचंद ने कुल ३०१ कहानियाँ लिखी हैं जिनमें ३ अभी अप्राप्य हैं। प्रेमचंद का पहला कहानी संग्रह सोज़े वतन(राष्ट्र का विलाप) नाम से जून १९०८ में प्रकाशित हुआ। इसी संग्रह की पहली कहानी दुनिया का सबसे अनमोल रतन को आम तौर पर उनकी पहली प्रकाशित कहानी माना जाता रहा है। डॉ॰ गोयनका के अनुसार कानपुर से निकलने वाली उर्दू मासिक पत्रिका ज़माना के अप्रैल अंक में प्रकाशित सांसारिक प्रेम और देश-प्रेम (इश्के दुनिया और हुब्बे वतन) वास्तव में उनकी पहली प्रकाशित कहानी है।
-
-</div>
-
-
-
-
-
-<div class="widget-content">
-<marquee behavior="alternate" direction="right" id="marquee1" onmouseover="this.stop();" onmouseout="this.start();" scrolldelay="85" scrollamount="4"><p><a href="https://www.mygov.in/"><img border="3" alt="Natural" height="200" src="https://static.businessworld.in/article/article_extra_large_image/3921460447240MyGov-logo1.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://data.gov.in/"><img border="3" alt="Natural" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7MOVYcEvU-y2NT68stGnMjMJQ-X4nGBl7vATFEmNPQG7RY0n&amp;s" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ncert.nic.in/"><img border="3" alt="Natural" height="200" src="https://yt3.ggpht.com/a/AGF-l79Zp-Bba4qlHnxIW0E3BlIEUtP4Wt1pnu6VFw=s900-c-k-c0xffffffff-no-rj-mo" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://navodaya.gov.in/nvs/en/Home1"><img border="3" alt="Natural" height="200" src="https://timesofindia.indiatimes.com/thumb/msid-70955829,imgsize-128157,width-400,resizemode-4/70955829.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kvsangathan.nic.in/"><img border="3" alt="Natural" height="200" src="https://www.kopykitab.com/blog/wp-content/uploads/2018/04/KV.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://iitf.gov.in/"><img border="3" alt="Natural" height="200" src="https://iitf.gov.in/pluginfile.php/1/theme_campus/frontpageresponsivebackgroundimage/1579670795/LMS-Header1.jpg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pmindia.gov.in/en/"><img border="3" alt="Natural" height="200" src="https://www.pmindia.gov.in/wp-content/uploads/2014/09/government-web-directory.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://epathshala.nic.in/"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/W6vdp7WkrEyUOLzgFiiCyTW8n3bqiQebLoTUw2LJTU25HZkjnUVilHILzMtOzJ4-cg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://epgp.inflibnet.ac.in/"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/-CZR4tOFDkxk/XihuatHuHwI/AAAAAAAAA6k/znpohPWhs4YXq7kc7MpAqRZOsg1v5mLcQCEwYBhgL/w140-h51-p/epgpathsalalogo.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ncert.nic.in/tamanna/tamanna.html"><img border="3" alt="Natural" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtlawDUe79-_z678_Znb8eAsU2n4awzMosV64tiV6A2TezTh8w" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://diksha.gov.in/help/getting-started/diksha-mobile-app/"><img border="3" alt="Natural" height="200" src="https://spiderimg.itstrendingnow.com/assets/images/2019/08/27/750x506/diksha_1566884209.jpeg" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bsgindia.org/User/Home.aspx"><img border="3" alt="Natural" height="200" src="https://lh3.googleusercontent.com/proxy/TpxC5CI_CBdrPNU3v6HPZ8uIGh8-bBK6ApKnGjsNLbfFj5TvVTX_KITv5Rc3uYxWxGDcc-nwUOBT7sY5yBRIKHocmx4wpPaY3g" width="200"></a></p></marquee>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="widget Text" data-version="1" id="Text1">
-  <div class="widget-content">
-<marquee><br><span=""style="color:#993399;"><b><span style="background-color:#deff8b; color: #333333; font-family: &quot;noto sans&quot;, &quot;helvetica neue&quot;, Arial, sans-serif; font-size: 18px;">आप अपना भविष्य नहीं बदल सकते, लेकिन अपनी आदतें बदल सकते है और निश्चित रूप से आपकी आदतें आपका भविष्य बदल देंगी.<marquee></marquee></span></b></span=""style="color:#993399;"></marquee>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=3203834490235391858&amp;widgetType=Text&amp;widgetId=Text1&amp;action=editWidget&amp;sectionId=sidebar-left-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Text1&quot;));" rel="nofollow" target="configText1" title="Edit">
-
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-
-
-
-
-
-
-
-
-    <!-- Optional JavaScript -->
-       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-  </body>
-</html>
+* {
+  letter-spacing: 3px;
+}
+
+.up{
+  display: block;
+
+}
+
+.seco{
+  height: 100px;
+
+}
+
+.navbar, .collapse, .nav-item{
+  background-color: #8cba51;
+}
+
+.rot{
+  background-color: #deff8b;
+}
+
+.navbar{
+  padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.2s{
+  height: 100px;
+}
+
+.kargil{
+  color: #4b5d67;
+  background-color: #deff8b;
+  padding: 20px;
+  letter-spacing: 3px;
+
+}
+
+.ka{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.icon{
+color: #ef8172;
+margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.test{
+
+  text-align: center;
+
+  background-color: #deff8b;
+ color: #4b5d67;
+}
+
+h2 {
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.test-image{
+  width: 10em;
+  height: 10em;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.aapj{
+  margin: auto;
+  background-color: #fbceb5;
+  display: block;
+}
+
+
+.apj-div{
+  margin: auto;
+  background-color: #fbceb5;
+  display: block;
+  margin-top: 100px;
+  padding: 50px;
+}
+
+
+.quiz-list{
+  text-align: left;
+  padding-top: 20px;
+}
+
+h4{
+  text-align: center;
+
+}
+.imag{
+  opacity: 70%;
+  margin-top: : 20px;
+    margin-bottom: 20px;
+  padding: 20px;
+}
+button{
+  margin: 20px;
+}
+imgblock{
+  display: inline;
+}
+
+.childart{
+  text-align:
+
+}
+.gree{
+  background-color: #8cba51;
+}
+
+.uper{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.ncert{
+  padding-top: 20px;
+}
